@@ -1,3 +1,3 @@
 # TbfgServerFiles
 
-Gaia Server Settings Can Be Found in the Gaia Folder.
+Gaia Server Settings Can Be Found in the Gaia Branch.
